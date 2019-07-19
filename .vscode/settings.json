@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/evyhaan/.local/share/virtualenvs/dj_rest_tutorial2-PI2JMvIo/bin/python"
+}
